@@ -1,6 +1,10 @@
-### السلام عليكم ورحمة الله وبركاته
-### My Name is **Prayuda Satya Graha**
+### 👋السلام عليكم ورحمة الله وبركاته
+### My Name is **Prayuda Satya Graha** 
 
+📚 I'm currently learning about data science and will keep learning and learning
+
+Education Info :
+- 
 <!--
 **oqhitz/oqhitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
