@@ -4,7 +4,7 @@
 📚 I'm currently learning about data science and will keep learning and learning
 
 Education Info :
-- 
+- Management Bachelor of Pelita Bangsa University 
 <!--
 **oqhitz/oqhitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
